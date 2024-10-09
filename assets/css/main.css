@@ -1438,7 +1438,6 @@ input, select, textarea {
 
 			#header > * {
 				margin-top: 2rem;
-				text-align: justify;
 			}
 
 				#header > *:before {
@@ -1458,6 +1457,7 @@ input, select, textarea {
 
 			#header .content .inner {
 				padding: 2.5rem 1rem;
+				text-align: justify;
 			}
 
 			#header .content p {
