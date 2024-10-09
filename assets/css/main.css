@@ -1459,7 +1459,11 @@ input, select, textarea {
 				padding: 2.5rem 1rem;
 				text-align: justify;
 			}
-
+			
+			#header .content h1 {
+				text-align: center;
+			}
+			
 			#header .content p {
 				line-height: 1.875;
 			}
