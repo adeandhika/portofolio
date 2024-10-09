@@ -1330,12 +1330,12 @@ input, select, textarea {
 				margin-bottom: 0;
 			}
 
-			#header .content .inner h1 {
-				text-align: center;
-			}
-
 				#header .content .inner > :last-child {
 					margin-bottom: 0;
+				}
+
+				#header .content .inner h1 {
+					text-align: center;
 				}
 
 			#header .content p {
