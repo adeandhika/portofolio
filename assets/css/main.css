@@ -1456,6 +1456,7 @@ input, select, textarea {
 
 			#header .content .inner {
 				padding: 2.5rem 1rem;
+				max-height: 200rem;
 				text-align: justify;
 			}
 			
